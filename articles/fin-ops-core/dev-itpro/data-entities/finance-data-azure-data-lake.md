@@ -104,7 +104,7 @@ Ask your administrator to re-install the Export to Data Lake add-in. If this iss
 If you see this error for a prolonged period of time, contact Support.  
 
 ### Memo fields are missing in the data lake
-The system does not export fields of type Memo, nVarchar(max), VarBinary, or Blob types into the data lake. If you choose a table with fields of these types, the system will ignore these fields and export others. We are working on enabling these special fields in the future. If you would like to stay in touch with the product team and learn about upcmoing features, you can join the [Project Como Yammer group](https://www.yammer.com/dynamicsaxfeedbackprograms/#/threads/inGroup?type=in_group&feedId=32768909312&view=all).
+The system does not export fields of type Memo, nVarchar(max), VarBinary, or Blob types into the data lake. If you choose a table with fields of these types, the system will ignore these fields and export others. We are working on enabling these special fields in the future. If you would like to stay in touch with the product team and learn about upcoming features, you can join the [Project Como Yammer group](https://www.yammer.com/dynamicsaxfeedbackprograms/#/threads/inGroup?type=in_group&feedId=32768909312&view=all).
 
 ### Status codes with extended errors
 When an error occurs in a table that you added to Export to Data Lake, you may see an error code in the status column. The following error codes provide the cause of the error and how to correct the issue.
